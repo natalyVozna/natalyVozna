@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> -->
 
-Header
+[![Header](https://github.com/natalyVozna/natalyVozna/blob/main/assets/getty_502964352_128031.jpeg)]()
 
 About me
 
