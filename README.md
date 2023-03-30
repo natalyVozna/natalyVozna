@@ -1,6 +1,6 @@
-[![Header](https://github.com/natalyVozna/natalyVozna/blob/main/assets/header.jpeg)]
+[![Header](https://github.com/natalyVozna/natalyVozna/blob/main/assets/header.jpeg)]()
 
-About me
+## Hi, I am an experienced fullstack developer
 
 Languages and tools
 
