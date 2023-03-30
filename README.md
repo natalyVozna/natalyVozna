@@ -1,4 +1,4 @@
-[![Header](https://github.com/natalyVozna/natalyVozna/blob/main/assets/getty_502964352_128031.jpeg)]
+[![Header](https://github.com/natalyVozna/natalyVozna/blob/main/assets/header.jpeg)]
 
 About me
 
